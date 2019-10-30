@@ -1,0 +1,7 @@
+{
+    "bd": {
+        "host": "localhost",
+        "port": 3308,
+        "user": "root"
+    }
+}
